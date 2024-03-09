@@ -2,7 +2,7 @@ import React, {useRef, useState } from 'react';
 import styled from 'styled-components';
 
 const videos = [
-  
+  { id: 10, title: 'Stanje...', url: 'videos/tito-moral-i-stoka.mp4' },
   { id: 9, title: 'Hrvatski Titanik', url: 'videos/hrvatski-titanik.mp4' },
   { id: 8, title: 'Alhambra AI', url: 'videos/alhambra-ai.mp4' },
   { id: 7, title: 'Celebs...', url: 'videos/budist-celebs.mp4' },
